@@ -1,5 +1,5 @@
 
-# Macrosos - Macro Recording and Execution Utility
+# macros-maker - Macro Recording and Execution Utility
 
 ##  Important Notice
 
