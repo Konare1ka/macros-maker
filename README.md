@@ -7,7 +7,7 @@
 
 ##  Prerequisites
 
-Before using Macrosos, make sure to install the required Python libraries:
+Before using macros-maker, make sure to install the required Python libraries:
 
 ```bash
 pip install pynput pyautogui argparse
