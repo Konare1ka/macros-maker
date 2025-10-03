@@ -18,3 +18,4 @@ pip install pynput pyautogui argparse
 * `Ctrl+Alt+W`  --- start recording macro
 * `Ctrl+Alt+E` --- start executing recorded macro
 * `Ctrl+Alt+L` --- forced safe exit from script
+  When pressed again, recording stops, similar to execute
