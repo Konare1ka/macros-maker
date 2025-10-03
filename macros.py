@@ -377,7 +377,7 @@ def safeExit():
     
 def main():
     global args, file
-    parser = argparse.ArgumentParser(prog="Macrosos",
+    parser = argparse.ArgumentParser(prog="macros-maker",
                                                             description="Utility for create and execute macros",
                                                             epilog="""
 To start record macro press CTRL+ALT+W(rite)
@@ -402,4 +402,5 @@ To exit from script press CTRL+L(eave)
 
 if __name__ == "__main__":
     print("Launch script, waiting for hotkeys")
+
     main()
